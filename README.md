@@ -62,6 +62,9 @@ $
 T(n) \in O(\log n)
 $
 
+What Q1 looks like on my side:
+![alt text](image-2.png)
+
 ---
 
 ### 2.
@@ -110,6 +113,9 @@ $
 T(n) \in O(n \log n)
 $
 
+What Q2 looks like on my side:
+![alt text](image-3.png)
+
 ---
 
 ### 3.
@@ -153,6 +159,9 @@ $
 $
 T(n) \in O(n \log n)
 $
+
+What Q3 looks like on my side:
+![alt text](image-4.png)
 
 Answers in text:
 
