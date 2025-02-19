@@ -81,7 +81,7 @@ $\Theta(n)$
 $T(n) \in Θ(n)$
 
 What Q2 looks like on my side:
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 ---
 
